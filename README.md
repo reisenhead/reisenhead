@@ -1,8 +1,8 @@
-#### Mi nombre es Crystian Octavio - [Crystian](https://www.linkedin.com/in/crystian-octavio-hern%C3%A1ndez-l%C3%B3pez-056994214/) 👋
+#### Hi I'm Crystian Octavio - [Crystian](https://www.linkedin.com/in/crystian-octavio-hern%C3%A1ndez-l%C3%B3pez-056994214/) 👋
 
-## Soy Ingenirio Automotriz con conocimientos en Programacion Kotlin y Android Studio, Java C++
+## I'm Automotive Engeneer with knowledge of kotlin programming, Android Studio, Java, C++
 
-## Mis estadisticas son:
+## My statistics are:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=reisenhead&show_icons=true&theme=nord)
 
