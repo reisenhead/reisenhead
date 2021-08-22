@@ -1,4 +1,4 @@
-#### Hi I'm Crystian Octavio - [Crystian](https://www.linkedin.com/in/crystian-octavio-hern%C3%A1ndez-l%C3%B3pez-056994214/) 👋
+#### Hi I'm Crystian Octavio - [Crystian](https://www.linkedin.com/in/crystian-octavio/) 👋
 
 ## I'm Automotive Engeneer with knowledge of kotlin programming, Android Studio, Java, C++
 
