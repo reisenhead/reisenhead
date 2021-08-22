@@ -1,4 +1,4 @@
-#### Hi I'm Crystian Octavio - [Crystian](https://www.linkedin.com/in/crystian-octavio/) 👋   [CV](https://drive.google.com/drive/folders/1giECr_beryVtBS5HQhn4YpcGSEe2vv1b?usp=sharing) :page_facing_up:
+#### Hi I'm Crystian Octavio - [Crystian](https://www.linkedin.com/in/crystian-octavio/) 👋   [CV](https://drive.google.com/drive/u/1/folders/1giECr_beryVtBS5HQhn4YpcGSEe2vv1b) :page_facing_up:
 
 ## I'm Automotive Engeneer with knowledge of kotlin programming, Android Studio :iphone:, Java, C++ :computer:
 
