@@ -18,3 +18,17 @@
 [![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 </br>
 
+
+## Find me at:
+
+[![Facebook](https://img.shields.io/badge/Facebook-colorado_dev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/Reisenhead/)
+</br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Colorado_dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/crystian-octavio/)
+
+
+## Contact me:
+
+[![whatsApp](https://img.shields.io/badge/WhatsApp-MESSAGE_(FAST_RESPONSE)-green?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010)](https://wa.me/+524613453227)
+</br>
+[![Email](https://img.shields.io/badge/danicolorado.dev@gmail.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:octaviolp@hotmail.com)
+
