@@ -1,6 +1,6 @@
 ## Hi I'm Crystian Octavio - [Crystian](https://www.linkedin.com/in/crystian-octavio/) 👋   [CV](https://drive.google.com/drive/u/1/folders/1giECr_beryVtBS5HQhn4YpcGSEe2vv1b) :page_facing_up:
 
-#### I'm Automotive Engeneer with knowledge of kotlin programming, Android Studio :iphone:, Java, C++ , MPLAB, Arduino, TIA portal for PLC, Fluidsim, Matlab, CAM, Pascal, SOLIDWORKS, :computer:
+#### I'm Automotive Engeneer with knowledge of kotlin programming, Android Studio :iphone:, Java, C++ , MPLAB, Arduino, TIA portal for PLC, Fluidsim, Matlab,Programación CNC CAM, Pascal, Solidworks, :computer:
 
 #### My favorite hobbies are Chess, Videogames, Video Editing, Electronics and Programming.:computer:
 
