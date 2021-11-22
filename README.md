@@ -1,4 +1,4 @@
-## Hi I'm Crystian Octavio - [LinkedIn](https://www.linkedin.com/in/crystian-octavio/) 👋   [CV](https://github.com/reisenhead/CV/blob/main/CV%20Crystian%20Octavio%20Hern%C3%A1ndez%20L%C3%B3pez%20ES.pdf) :page_facing_up: [RESUME](https://github.com/reisenhead/CVENGLISH/blob/main/CV%20Crystian%20Octavio%20Hern%C3%A1ndez%20Lopez%20EN.pdf) :page_facing_up:
+## Hi I'm Crystian Octavio - [LinkedIn](https://www.linkedin.com/in/crystian-octavio/) 👋   [CV](https://github.com/reisenhead/CV/blob/main/CV%20CRYSTIAN%20OCTAVIO%20HERN%C3%81NDEZ%20L%C3%93PEZ%20ES..pdf) :page_facing_up: [RESUME](https://github.com/reisenhead/CVENGLISH/blob/main/CV%20Crystian%20Octavio%20Hern%C3%A1ndez%20Lopez%20EN.pdf) :page_facing_up:
 
 #### I'm Automotive Engeneer with knowledge of kotlin programming, Android Studio :iphone:, Java, C++ , MPLAB, Arduino, TIA portal for PLC, Fluidsim, Matlab,Programación CNC CAM, Pascal, Solidworks, :computer:
 
